@@ -1,5 +1,5 @@
 # Hotel
-Clase #2 - 09/05/2022
+Clase #2 - 05/09/2022
 
 Programa que solicita cantidad personas adultas, cantidad de niños y cantidad de dias de estadía
 
