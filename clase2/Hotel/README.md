@@ -1,6 +1,6 @@
 # Hotel
-
 Clase #2 - 09/05/2022
+
 Programa que solicita cantidad personas adultas, cantidad de niños y cantidad de dias de estadía
 
 Calcular el importe a pagar + itbm, cosiderando que los adultos pagan tarifa
