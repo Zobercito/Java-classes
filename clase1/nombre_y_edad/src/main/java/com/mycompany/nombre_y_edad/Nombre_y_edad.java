@@ -1,5 +1,5 @@
 /*
-Clase #1 - 09-02-2022
+Clase #1 - 02/09/2022
 
 Programa que pregunte el nombre y edad de una persona y la imprima en pantalla
 
