@@ -6,4 +6,4 @@ Programa que solicita cantidad personas adultas, cantidad de niños y cantidad d
 Calcular el importe a pagar + itbm, cosiderando que los adultos pagan tarifa
 completa y los niños tarifa media
 
-La entrada de teclado combina las clases BuferredReader, Scanner y la JOptionPane
+La entrada de teclado combina las clases BuferredReader, Scanner y JOptionPane
